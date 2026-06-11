@@ -1,6 +1,6 @@
-# Unmaking the Everyday AI: A Design Inquiry into Research Tools and AI Nudge
+# Nudged by Design: How AI Nudges Reshape Researcher Agency in Everyday Research Platforms
 
-Borami Kang, Gaëtan Robillard, Yvette Shen, Fabienne Münch, DRS Submission, 2025.
+Borami Kang, Gaëtan Robillard, Yvette Shen, Fabienne Münch, HCII 2026.
 
 ## Dataset and Text Mining Method
 
