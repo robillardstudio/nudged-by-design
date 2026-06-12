@@ -7,6 +7,8 @@ Borami Kang, Gaëtan Robillard, Yvette Shen, Fabienne Münch, HCII 2026.
 This repertory includes 5 csv file, see [data](data). Each lists the top keyword found in white papers or online pages published by platforms on responsible AI.
 Two different types of parameters are given: string (keyword), value (word frequency). The table below summarizes the analysis. The Colab notebook devising the text mining method is also shared [here](hcii-method.ipynb).
 
+![viz.svg](cluster vizualisation)
+
 ## Summary
 
 | Source  | URL                                                                                                                                                                                        | Text length (characters) | Tokens after lemmatization | Total unique words | Top 5 words                                    |
