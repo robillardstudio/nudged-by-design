@@ -1,6 +1,6 @@
-# Nudged by Design: How AI Nudges Reshape Researcher Agency in Everyday Research Platforms
+# Nudged by Design: White Paper Dataset
 
-Borami Kang, Gaëtan Robillard, Yvette Shen, Fabienne Münch, HCII 2026.
+Borami Kang, Gaëtan Robillard, Yvette Shen, Fabienne Münch, _How AI Nudges Reshape Researcher Agency in Everyday Research Platforms_, HCII 2026.
 
 ## Dataset and Text Mining Method
 
